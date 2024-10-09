@@ -1,2 +1,4 @@
 line 1
 kine 2
+line 5 
+line 6
